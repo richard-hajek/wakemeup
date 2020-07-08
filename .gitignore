@@ -1,0 +1,4 @@
+tasks/db/*
+!tasks/db/example.yaml
+.idea
+__pycache__
